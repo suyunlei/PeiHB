@@ -1,7 +1,7 @@
 {
   "name": "happy-birthday",
   "version": "1.0.0",
-  "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
+  "description": "An APP that can say HB to my friend.",
   "main": "index.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
@@ -22,7 +22,8 @@
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "SU YUNLEI",
+  "origin author": "Afiur Rahman Fahim",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/faahim/happy-birthday/issues"
